@@ -6,3 +6,12 @@ A project about learning GTK+ on linux and making distributable applications.
 
 But cool on this guys website tutorial:
 https://developer.gnome.org/gtk3/stable/gtk-getting-started.html#id-1.2.3.5
+
+## Building all the applications:
+
+From the top directory:
+`make`
+
+## Running
+
+`./example-X` where 'X' is replaced by the relative number.
